@@ -90,8 +90,6 @@ const Header = () => {
               letterSpacing: '.3rem',
               color: 'red',
               textDecoration: 'none',
-           
-    
             }}
           >
             Hi FOODIE
